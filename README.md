@@ -1,12 +1,22 @@
-# React + Vite
+🌿 Plant Shop (Frontend – React & Tailwind CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and visually appealing Plant Shop frontend application built using React and Tailwind CSS, designed to deliver a smooth, fast, and user-friendly browsing experience.
+The application focuses on a clean UI, responsive design, and reusable components, making it ideal for showcasing frontend development skills.
 
-Currently, two official plugins are available:
+This project demonstrates strong understanding of component-based architecture, state management, and modern UI design practices, making it suitable for portfolio and frontend-focused roles.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
 
-## Expanding the ESLint configuration
+🌱 Plant Catalog UI – Browse a variety of plants with images and details
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧭 Category-Based Filtering – Filter plants by type or category
+
+🛒 Cart UI – Add and remove plants from the cart (UI-level)
+
+📱 Fully Responsive Design – Works smoothly on all screen sizes
+
+🎨 Modern UI Design – Styled with Tailwind CSS
+
+🧩 Reusable Components – Clean and maintainable component structure
+
+⚡ Fast Performance – Optimized with React
