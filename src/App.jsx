@@ -12,7 +12,6 @@ import CartPage from "./pages/CartPage";
 import CheckoutPage from "./pages/CheckoutPage";
 import { CartProvider } from "./context/CartContext";
 
-
 const App = () => {
   return (
     <CartProvider>
