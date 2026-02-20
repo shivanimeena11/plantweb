@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { NavLink, useNavigate, useLocation } from "react-router-dom";
 import { ShoppingCart, Heart, Menu, X } from "lucide-react";
-import { useCart } from "../context/CartContext";
+import { useCart } from "../context/cartContext";
 import { motion, AnimatePresence } from "framer-motion";
 
 export default function Navbar({ isLoggedIn, setIsLoggedIn }) {

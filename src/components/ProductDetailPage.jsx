@@ -6,7 +6,7 @@ import { Star, Heart } from "lucide-react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import plantsData from "../data/plants2.json";
-import { useCart } from "../context/CartContext";
+import { useCart } from "../context/cartContext";
 
 // Utility favorites functions
 const loadFavorites = () => JSON.parse(localStorage.getItem("favorites") || "[]");

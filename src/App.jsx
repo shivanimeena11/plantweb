@@ -10,7 +10,7 @@ import ProductDetailPage from "./components/ProductDetailPage";
 import ProtectedRoute from "./components/ProtectedRoute";
 import CartPage from "./pages/CartPage";
 import CheckoutPage from "./pages/CheckoutPage";
-import { CartProvider } from "./context/CartContext";
+import { CartProvider } from "./context/cartContext";
 
 const App = () => {
   return (

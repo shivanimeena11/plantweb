@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 import Navbar from "../components/Navbar";
-import { useCart } from "../context/CartContext";
+import { useCart } from "../context/cartContext";
 import Footer from "../components/Footer";
 import ThankYouPopup from "../components/ThankYouPopup";
 

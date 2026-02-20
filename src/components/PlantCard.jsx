@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Star, Heart } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useNavigate } from "react-router-dom";
-import { useCart } from "../context/CartContext";
+import { useCart } from "../context/cartContext";
 
 // Wavy Line animation
 const WavyLine = ({ color }) => (
